@@ -10,6 +10,6 @@ Rails.application.routes.draw do
   resources :users 
   resources :gooddeeds, only: [:index, :create]
     end 
-  end 
-end 
+  
+
 
