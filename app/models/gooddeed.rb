@@ -1,0 +1,2 @@
+class Gooddeed < ApplicationRecord
+end
