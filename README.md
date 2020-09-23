@@ -1,4 +1,4 @@
-# README
+# This is the rails backend for the Good Deeds Tracker API! 
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
