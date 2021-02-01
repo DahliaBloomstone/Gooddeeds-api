@@ -1,24 +1,10 @@
-# This is the rails backend for the Good Deeds Tracker API! 
+# This is the rails API backend for the Good Deeds Tracker!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is for the Good Deeds Tracker App backend. To view more information on this project, visit the frontend: https://github.com/DahliaBloomstone/js-frontend-
 
-Things you may want to cover:
+# License
+The app is available as open source under the terms of the MIT License. 
 
-* Ruby version
+To view more apps, go to my portfolio: https://github.com/DahliaBloomstone
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Or visit my website for art and code: https://www.dahliabloomstone.com/
